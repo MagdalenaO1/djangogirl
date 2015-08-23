@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+magda
+db.sqlite3
+.DS_Store
+djangogirls-tutorial-en.pdf
+kod1.py
+kod2.py
